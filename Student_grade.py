@@ -24,6 +24,8 @@ print("HISTORY: ",history)
 print("GEOGRAPHY: ",geography)
 print("MARATHI: ",marathi)
 
+#hiii
+
 #calculating cgpa of all subjects
 adding_CGPA_of_all_subjects = maths+science+history+geography+marathi
 print("ADDITION OF ALL SUBJECT'S CGPA: ",adding_CGPA_of_all_subjects)
